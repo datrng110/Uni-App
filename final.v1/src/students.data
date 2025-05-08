@@ -1,0 +1,58 @@
+[
+  {
+    "id": "045001",
+    "name": "Mia Nguyen",
+    "email": "mia.nguyen@university.com",
+    "password": "Mianguyen12345",
+    "subjects": [
+      {
+        "id": "769",
+        "mark": 10,
+        "grade": "F"
+      },
+      {
+        "id": "632",
+        "mark": 10,
+        "grade": "F"
+      },
+      {
+        "id": "360",
+        "mark": 10,
+        "grade": "F"
+      },
+      {
+        "id": "345",
+        "mark": 10,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "id": "156287",
+    "name": "Harry Phan",
+    "email": "harry.phan@university.com",
+    "password": "HarryPhan12345",
+    "subjects": [
+      {
+        "id": "830",
+        "mark": 36,
+        "grade": "F"
+      },
+      {
+        "id": "463",
+        "mark": 47,
+        "grade": "F"
+      },
+      {
+        "id": "567",
+        "mark": 34,
+        "grade": "F"
+      },
+      {
+        "id": "189",
+        "mark": 34,
+        "grade": "F"
+      }
+    ]
+  }
+]

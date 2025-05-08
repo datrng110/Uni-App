@@ -1,0 +1,282 @@
+[
+  {
+    "id": "874876",
+    "name": "Rachel Nguyen",
+    "email": "rachel.nguyen@university.com",
+    "password": "Rachel888",
+    "subjects": [
+      {
+        "id": "729",
+        "mark": 100,
+        "grade": "HD"
+      },
+      {
+        "id": "905",
+        "mark": 85,
+        "grade": "HD"
+      },
+      {
+        "id": "772",
+        "mark": 89,
+        "grade": "HD"
+      },
+      {
+        "id": "822",
+        "mark": 42,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "id": "144881",
+    "name": "Steve Ho",
+    "email": "steve.ho@university.com",
+    "password": "Steveho12345",
+    "subjects": [
+      {
+        "id": "478",
+        "mark": 75,
+        "grade": "D"
+      },
+      {
+        "id": "880",
+        "mark": 80,
+        "grade": "D"
+      },
+      {
+        "id": "662",
+        "mark": 30,
+        "grade": "F"
+      },
+      {
+        "id": "102",
+        "mark": 69,
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "id": "871158",
+    "name": "Wendy Le",
+    "email": "wendy.le@university.com",
+    "password": "Wendyle345",
+    "subjects": [
+      {
+        "id": "637",
+        "mark": 35,
+        "grade": "F"
+      },
+      {
+        "id": "387",
+        "mark": 38,
+        "grade": "F"
+      },
+      {
+        "id": "424",
+        "mark": 59,
+        "grade": "P"
+      },
+      {
+        "id": "499",
+        "mark": 49,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "id": "876935",
+    "name": "Danny Nguyen",
+    "email": "danny.nguyen@university.com",
+    "password": "Danny12345",
+    "subjects": [
+      {
+        "id": "204",
+        "mark": 38,
+        "grade": "F"
+      },
+      {
+        "id": "885",
+        "mark": 70,
+        "grade": "C"
+      },
+      {
+        "id": "898",
+        "mark": 34,
+        "grade": "F"
+      },
+      {
+        "id": "332",
+        "mark": 26,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "id": "175923",
+    "name": "Henry Le",
+    "email": "henry.le@university.com",
+    "password": "Henry3456",
+    "subjects": [
+      {
+        "id": "878",
+        "mark": 30,
+        "grade": "F"
+      },
+      {
+        "id": "506",
+        "mark": 28,
+        "grade": "F"
+      },
+      {
+        "id": "383",
+        "mark": 90,
+        "grade": "HD"
+      },
+      {
+        "id": "069",
+        "mark": 70,
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "id": "710850",
+    "name": "Marry Phan",
+    "email": "marry.phan@university.com",
+    "password": "Marry000",
+    "subjects": []
+  },
+  {
+    "id": "495668",
+    "name": "Rosie Nguyen",
+    "email": "rosie.nguyen@university.com",
+    "password": "Rosie1234",
+    "subjects": []
+  },
+  {
+    "id": "481110",
+    "name": "Mia Nguyen",
+    "email": "mia.nguyen@university.com",
+    "password": "Mianguyen0909",
+    "subjects": []
+  },
+  {
+    "id": "224154",
+    "name": "Dat Ng",
+    "email": "dat.ng@university.com",
+    "password": "Danng12345",
+    "subjects": []
+  },
+  {
+    "id": "110366",
+    "name": "Ha Phuong",
+    "email": "ha.phuong@university.com",
+    "password": "Haphuong0303",
+    "subjects": []
+  },
+  {
+    "id": "151993",
+    "name": "Ha Nguyen",
+    "email": "ha.nguyen@university.com",
+    "password": "Hanguyen111",
+    "subjects": [
+      {
+        "id": "468",
+        "mark": 38,
+        "grade": "F"
+      },
+      {
+        "id": "550",
+        "mark": 27,
+        "grade": "F"
+      },
+      {
+        "id": "469",
+        "mark": 85,
+        "grade": "HD"
+      },
+      {
+        "id": "345",
+        "mark": 87,
+        "grade": "HD"
+      }
+    ]
+  },
+  {
+    "id": "935471",
+    "name": "Anna Le",
+    "email": "anna.le@university.com",
+    "password": "Annale0909",
+    "subjects": []
+  },
+  {
+    "id": "844769",
+    "name": "John Ho",
+    "email": "john.ho@university.com",
+    "password": "Johnho091",
+    "subjects": []
+  },
+  {
+    "id": "630236",
+    "name": "Janet Dau",
+    "email": "janet.dau@university.com",
+    "password": "Janet555",
+    "subjects": []
+  },
+  {
+    "id": "949017",
+    "name": "Monica Le",
+    "email": "monica.le@university.com",
+    "password": "Monica202",
+    "subjects": [
+      {
+        "id": "528",
+        "mark": 50,
+        "grade": "P"
+      },
+      {
+        "id": "774",
+        "mark": 35,
+        "grade": "F"
+      },
+      {
+        "id": "478",
+        "mark": 59,
+        "grade": "P"
+      },
+      {
+        "id": "222",
+        "mark": 93,
+        "grade": "HD"
+      }
+    ]
+  },
+  {
+    "id": "976888",
+    "name": "Dat Nguyen",
+    "email": "dat.nguyen@university.com",
+    "password": "Datnguyen1234",
+    "subjects": [
+      {
+        "id": "781",
+        "mark": 65,
+        "grade": "C"
+      },
+      {
+        "id": "893",
+        "mark": 33,
+        "grade": "F"
+      },
+      {
+        "id": "678",
+        "mark": 45,
+        "grade": "F"
+      },
+      {
+        "id": "312",
+        "mark": 63,
+        "grade": "P"
+      }
+    ]
+  }
+]
